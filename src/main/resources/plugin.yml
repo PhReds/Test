@@ -1,0 +1,4 @@
+name: Test
+version: '${project.version}'
+main: me.phredss.test.Test
+api-version: 1.16
