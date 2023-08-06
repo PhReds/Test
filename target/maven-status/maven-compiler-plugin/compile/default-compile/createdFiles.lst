@@ -1,4 +1,5 @@
+me\phredss\test\handler\JoinEvent.class
+me\phredss\test\MySql\MySQL.class
+me\phredss\test\handler\MobKill.class
+me\phredss\test\MySql\SQLGetter.class
 me\phredss\test\Test.class
-me\phredss\test\db\Database.class
-me\phredss\test\handler\Listeners.class
-me\phredss\test\models\PlayerStats.class
